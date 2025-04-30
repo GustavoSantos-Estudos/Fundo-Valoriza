@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fundovaloriza">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fundovaloriza.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
